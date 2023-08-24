@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+    display: flex;
+    max-width: 720px;
+    aspect-ratio: 1/1;
+    flex-wrap: wrap;
+}
+
+.sizebtn {
+    width: 48px;
+    height: 36px;
+}
